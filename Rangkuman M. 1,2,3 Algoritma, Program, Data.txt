@@ -1,0 +1,77 @@
+1. Sebutkan dan jelaskan 6 konsep program. 
+2. 3 Struktur apa gitu ya yg jawabannya sequential, percabangan, perulangan
+3. Apa yang membuat operasional assignment sahih atau tidak sahih
+4. Perbedaan variabel dan konstanta. 
+5. Sebutkan type data non primitif
+
+Rangkuman DDP
+Program = Algoritma + Struktur Data
+SW = Program + Dokumentasi
+
+* Program = kumpulan "OPERASI" ( atau langkah kerja ) yang tersusun dengan aturan tertentu, dinyatakan melalui "bahasa" tertentu, dimaksudkan untuk dilakukan oleh suatu "pelaksana" tertentu, untuk mencapai suatu "keadaan akhir" yang diinginkan, bertolak dari "keadaan awal" tertentu pula. 
+1. Initial State
+2. Final State
+3. Operasi
+4. Struktur
+5. Pelaksana
+6. Bahasa
+
+
+* Algoritma = pernyataan logika ( matematis ) yang merepresentasikan suatu proses transformasi dari suatu initial state ke suatu final state yang telah didefinisikan.
+
+* Struktur Pada Sebuah Program
+1. Pararel = lebih dari 1 operasi dilakukan serentak
+2. Non - Pararel = tidak ada 2 operasi atau lebih yang boleh di lakukan
+
+Di jtk di pelajari bahasa pemrograman non pararel.
+
+* Operasi pada Non - Pararel
+1. Sequencing = urutan. Suatu operasi yang dilakukan setelah operasi lain.
+
+2. Selection = pilihan. hanya boleh dilaksanakan satu diantara beberapa operasi.
+
+3. Repetition = pengulangan. Suatu operasi yang dilakukan secara terus menerus hingga mencapai suatu kondisi tertentu.
+
+* Level Pemrograman
+1. High Level = Manusia
+2. Midle Level = C++
+3. Low Level = Hardware/Komputer
+
+Data Input
+Proses
+Data Output
+
+* Data output itu pasti berbeda dengan input karena melalui proses.
+
+*Data
+* Primitif
+1. Numerik
+2. Alfanumerik
+3. Boolean
+4. Pointer
+
+* Non - Primitif
+a) nama_kota "Bandung Barat"
+
+* Numerik = data yang memiliki value / nilai matematik. dan dapat dikenakan operasi matematika.
+Array
+Record
+Linked List
+
+
+* Alfanumerik = data yang tidak bisa di operasikan ke dalam matematika biasa di tulis "1" "2" kodePos="40395" atau sering disebut string / kumpulan karakter.
+
+* Data Itu Punya Wadah
+Di dalam wadah mencakup 
+1. Nama / Identifier
+2. Value
+3. Type Data
+4. Address
+
+* Aray = Kumpulan data type-nya sama.
+
+* Program akan mengubah data input menjadi data output.
+
+** Operasi adalah action yang menghasilkan effect.
+
+
